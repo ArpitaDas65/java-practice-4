@@ -10,37 +10,54 @@ Method Overriding & Polymorphism
 Java Main Program
 
 📁 Programs
-#
-Topic
+#Topic
 File
 1
-Strings
+--Strings
 StringExample.java
+
 2
 Exception Handling
-ExceptionDemo.java
+--ExceptionDemo.java
+
 3
 Multiple Exception Handling
-MultipleExceptionDemo.java
+--MultipleExceptionDemo.java
+
 4
 Method Overriding & Polymorphism
-ShapePolymorphism.java
+--ShapePolymorphism.java
+
 5
 Main Program
-Main.java
+--Main.java
+
+
 🛠️ Requirements
+
 Java JDK
+
 VS Code / IntelliJ IDEA / Eclipse
+
 Basic knowledge of Java
+
 ▶️ How to Run
+
 Compile:
 javac FileName.java
+
 Run:
 java FileName
+
+
 Example:
 javac StringExample.java
 java StringExample
+
+
 🎯 Purpose
 This repository contains Java practice programs created while learning and practicing core Java concepts.
+
+
 👩‍💻 Author
 Arpita Das
